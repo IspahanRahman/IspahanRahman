@@ -80,16 +80,16 @@ I enjoy tackling complex UI/UX challenges, thinking in systems, and writing clea
 
 ## GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IspahanRahman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IspahanRahman&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</div> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IspahanRahman&theme=tokyonight"/>
+</div>
 
 ---
 
