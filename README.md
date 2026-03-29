@@ -82,11 +82,7 @@ I enjoy tackling complex UI/UX challenges, thinking in systems, and writing clea
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IspahanRahman&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IspahanRahman&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IspahanRahman&theme=tokyonight"/>
 
 </div>
 
