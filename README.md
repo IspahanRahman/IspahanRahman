@@ -90,6 +90,14 @@ I enjoy tackling complex UI/UX challenges, thinking in systems, and writing clea
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IspahanRahman&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IspahanRahman&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IspahanRahman&theme=react-dark"/>
+</div>
+
 ---
 
 <div align="center">
