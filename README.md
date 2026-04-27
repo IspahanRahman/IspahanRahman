@@ -87,7 +87,7 @@ I enjoy tackling complex UI/UX challenges, thinking in systems, and writing clea
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IspahanRahman&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=IspahanRahman&theme=tokyonight"/>
 </div>
 
 <div align="center">
