@@ -19,7 +19,7 @@ I'm a passionate **Frontend-focused Software Engineer** with hands-on experience
 
 I enjoy tackling complex UI/UX challenges, thinking in systems, and writing clean, maintainable code that scales.
 
-- 🏢 Currently working as a **Software Programmer (Frontend)**
+- 🏢 Currently working as a **Software Engineer**
 - 🔭 Exploring **System Design, Performance Optimization & UI/UX Engineering**
 - 🌍 Open to **remote opportunities** and **global collaboration**
 - 💬 Ask me about **Next.js, React, Tailwind CSS, or Laravel API integration**
