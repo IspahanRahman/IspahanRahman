@@ -79,26 +79,18 @@ I enjoy tackling complex UI/UX challenges, thinking in systems, and writing clea
 ---
 
 ## GitHub Stats
-
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IspahanRahman&theme=tokyonight"/>
-
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=IspahanRahman&theme=tokyonight"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IspahanRahman&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-gamma-tawny-27.vercel.app/api?username=IspahanRahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IspahanRahman&theme=react-dark"/>
 </div>
-
----
 
 <div align="center">
 
