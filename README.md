@@ -1,10 +1,16 @@
 <div align="center">
 
-# Md. Mahmud-Ur-Rahman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0A66C2&height=200&section=header&text=Md.%20Mahmud-Ur-Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Next.js%20Specialist&descAlignY=58&descSize=18" width="100%" />
 
-### Software Engineer · Frontend Developer · Next.js Specialist
+<a href="https://github.com/IspahanRahman">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Next.js+%26+React+Specialist;Laravel+%26+Node.js+Backend;Building+scalable+production+apps;Clean+Architecture+%26+API+Design" alt="Typing SVG" />
+</a>
 
-I build scalable, production-ready web applications with modern frontend architecture, clean UI engineering, and robust API integration.
+<br/>
+
+I build scalable, production-ready web applications end-to-end — from modern frontend architecture and clean UI engineering to robust backend APIs and database design.
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-ur-rahman-a3a1b8191)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IspahanRahman)
@@ -16,30 +22,31 @@ I build scalable, production-ready web applications with modern frontend archite
 
 ## About Me
 
-I am a **Frontend-focused Software Engineer** with hands-on experience designing and developing scalable, production-grade web applications. My core expertise lies in building performant, responsive, and maintainable user interfaces using **Next.js, React, TypeScript, Tailwind CSS, Material UI, and shadcn/ui**.
+I am a **Full-Stack Software Engineer** with hands-on experience designing, developing, and shipping scalable, production-grade web applications from frontend to backend. My core strength lies in building performant, responsive, and maintainable user interfaces using **Next.js, React, TypeScript, Tailwind CSS, Material UI, and shadcn/ui**, backed by robust server-side systems built with **Laravel, Node.js, and Express.js**.
 
-I also have practical experience integrating frontend applications with robust backend systems, including **Laravel REST APIs** and **Node.js/Express.js APIs**, with databases such as **MySQL, PostgreSQL, and MongoDB**.
+I have practical experience designing and integrating REST APIs, architecting relational and non-relational databases with **MySQL, PostgreSQL, and MongoDB**, and delivering complete features — from database schema and API layer to the final pixel on screen.
 
-I enjoy solving complex UI/UX problems, improving frontend architecture, optimizing performance, and writing clean code that is easy to maintain and scale.
+I enjoy solving complex engineering problems across the stack — improving frontend architecture, optimizing backend performance, designing clean APIs, and writing code that is easy to maintain and scale.
 
-- Currently working as a **Software Engineer**
-- Specialized in **Next.js, React, TypeScript, Tailwind CSS, and API Integration**
-- Exploring **System Design, Performance Optimization, and UI/UX Engineering**
+- Currently working as a **Full-Stack Software Engineer**
+- Specialized in **Next.js, React, TypeScript, Tailwind CSS, Laravel, Node.js, and REST API Design**
+- Exploring **System Design, Performance Optimization, and Scalable Architecture**
 - Experienced with **Laravel, Node.js, Express.js, REST APIs, MySQL, PostgreSQL, and MongoDB**
-- Open to **remote opportunities, global collaboration, and challenging engineering projects**
+- Open to **remote opportunities, global collaboration, and challenging full-stack engineering projects**
 
 ---
 
 ## Core Expertise
 
-- Frontend Architecture
-- Responsive Web Application Development
-- Component-based UI Engineering
-- REST API Integration
-- Admin Dashboard Development
+- Full-Stack Web Application Development
+- Frontend Architecture & Component-based UI Engineering
+- Backend API Design & Development (REST)
+- Database Design & Optimization (SQL & NoSQL)
 - Authentication & Role-based Access Control
-- Performance Optimization
-- Clean Code & Maintainable Project Structure
+- Admin Dashboard & Reporting Systems
+- Third-party API & Payment Gateway Integration
+- Performance Optimization (Frontend & Backend)
+- Clean Code, Testing & Maintainable Project Structure
 
 ---
 
@@ -81,48 +88,59 @@ I enjoy solving complex UI/UX problems, improving frontend architecture, optimiz
 
 ## Featured Projects
 
-### Event Management System
+<details open>
+<summary><b>🎟️ Event Management System</b></summary>
+
+<br/>
 
 > A full-featured event management platform with ticketing, role-based dashboards, payment gateway integration, and real-time operational workflows.
 
-**Stack:** Next.js · Laravel · MySQL  
-**Key Features:**
+**Stack:** Next.js · Laravel · MySQL
 
+**Key Features:**
 - Multi-role access control
 - Ticket purchase and generation
 - Payment gateway integration
 - Admin and user dashboards
 - Event registration and reporting
 
----
+</details>
 
-### HRM System — GSS
+<details>
+<summary><b>🧑‍💼 HRM System — GSS</b></summary>
+
+<br/>
 
 > A comprehensive Human Resource Management platform designed for enterprise-level employee, payroll, recruitment, and leave management.
 
-**Stack:** Next.js · Laravel · PostgreSQL  
-**Key Features:**
+**Stack:** Next.js · Laravel · PostgreSQL
 
+**Key Features:**
 - Employee profile management
 - Payroll processing workflow
 - Leave and recruitment modules
 - SSO authentication
 - Role-based permission management
 
----
+</details>
 
-### EDLP — E-Learning & Development Platform
+<details>
+<summary><b>📚 EDLP — E-Learning & Development Platform</b></summary>
+
+<br/>
 
 > An integrated digital learning platform with course management, alumni networking, project showcase, and support operations.
 
-**Stack:** Next.js · REST API Integration  
-**Key Features:**
+**Stack:** Next.js · REST API Integration
 
+**Key Features:**
 - Course and learning module management
 - Alumni portal
 - Project showcase
 - Support ticketing system
 - Responsive user interface
+
+</details>
 
 ---
 
@@ -142,7 +160,25 @@ I enjoy solving complex UI/UX problems, improving frontend architecture, optimiz
 
 <br/>
 
+<img src="https://github-readme-stats-gamma-tawny-27.vercel.app/api/top-langs/?username=IspahanRahman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IspahanRahman&theme=react-dark" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IspahanRahman/IspahanRahman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IspahanRahman/IspahanRahman/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IspahanRahman/IspahanRahman/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -150,8 +186,10 @@ I enjoy solving complex UI/UX problems, improving frontend architecture, optimiz
 
 <div align="center">
 
-### "Building systems that scale and solve real problems."
+### 💬 "Building systems that scale and solve real problems."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IspahanRahman&color=blue&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=120&section=footer" width="100%" />
 
 </div>
